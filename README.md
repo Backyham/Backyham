@@ -1,3 +1,7 @@
+# Nick Lian
+
+It's glad to be a human simultaneously interested in coding, translation and photography.
+
 ## License
 
 All codes can be used under *GNU General Public License v3.0* (GPL-3.0).
